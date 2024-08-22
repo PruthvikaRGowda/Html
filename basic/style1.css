@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+}
+header{
+    background-color: rgb(255, 174, 81);
+    padding:30px;
+    text-align: center;
+}
+header>h1{
+    color: black;
+}
+aside{
+    background-color:rgb(245, 191, 129);
+    height: 450px;
+    width: 300px;
+    font-size: 20px;
+    float: left;
+}
+aside>a{
+    text-decoration: none;
+    display:block;
+    text-align: center;
+    margin-bottom: 10px;
+    color: brown;
+}
+section{
+    background-color: rgb(232, 232, 95);
+    height: 450px;
+}
+section>article{
+    margin-left:410px ;
+    margin-bottom: 20px;
+    line-height: 50px;
+}
+
+footer{
+    background-color:rgb(255, 174, 81) ;
+    padding: 30px;
+    text-align: center;
+}
+    

@@ -1,0 +1,17 @@
+div{
+    background-color: brown;
+    height: 1000px;
+}
+.c{
+    height: 80px;
+    color: beige;
+}
+div{
+    display: flex;
+    flex-direction: row;
+    column-gap: 40px;
+    row-gap: 20px;
+    flex-wrap:wrap;
+    justify-content: end;
+    align-content: center;
+}
